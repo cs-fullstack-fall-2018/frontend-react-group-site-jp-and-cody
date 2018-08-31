@@ -16,27 +16,27 @@ class YouTubeChannelContent extends Component {
 
                             <div className="video-thumbnail">
                                 <img
-                                    src=""
-                                    alt=""/>
+                                    src="https://placeimg.com/200/200/animals"
+                                    alt="a picture of a cat"/>
                             </div>
 
                             <div className="video-info">
-                                <h3 className="video-title"></h3>
+                                <h3 className="video-title">I Bet You Can't Watch Without Laughing</h3>
                                 <ul className="video-meta-data">
                                     <li className="video-creator">
                                         <i className="fas fa-check-circle"></i>
                                     </li>
-                                    <li className="video-views"></li>
-                                    <li className="video-upload-date"></li>
+                                    <li className="video-views">14,378 Views</li>
+                                    <li className="video-upload-date">07/24/1992</li>
                                 </ul>
-                                <p className="video-description"></p>
+                                <p className="video-description">Some of the most hilarious videos</p>
                             </div>
 
                         </div>
 
                         <div className="vlogs-playlist playlist">
 
-                            <h2 className="playlist-title"></h2>
+                            <h2 className="playlist-title">Lo-Fi Hip Hop</h2>
 
                             <div className="playlist-videos">
 
@@ -44,18 +44,19 @@ class YouTubeChannelContent extends Component {
 
                                     <div className="video-thumbnail">
                                         <img
-                                            src=""
-                                            alt=""/>
+                                            src="https://placeimg.com/170/120/arch"
+                                            alt="Architecture"/>
                                     </div>
 
                                     <div className="video-info">
-                                        <h3 className="video-title"></h3>
+                                        <h3 className="video-title">2 Hours of Jazz Vibes</h3>
                                         <ul className="video-meta-data">
                                             <li className="video-creator">
+                                                Dylan Spitts
                                                 <i className="fas fa-check-circle"></i>
                                             </li>
-                                            <li className="video-views"></li>
-                                            <li className="video-upload-date"></li>
+                                            <li className="video-views">304K views</li>
+                                            <li className="video-upload-date">2 years ago</li>
                                         </ul>
                                     </div>
 
@@ -70,13 +71,14 @@ class YouTubeChannelContent extends Component {
                                     </div>
 
                                     <div className="video-info">
-                                        <h3 className="video-title"></h3>
+                                        <h3 className="video-title">Burning Bush Live Concert 07/07</h3>
                                         <ul className="video-meta-data">
                                             <li className="video-creator">
+                                                JP Develops
                                                 <i className="fas fa-check-circle"></i>
                                             </li>
-                                            <li className="video-views"></li>
-                                            <li className="video-upload-date"></li>
+                                            <li className="video-views">345K views</li>
+                                            <li className="video-upload-date">2 weeks ago</li>
                                         </ul>
                                     </div>
 
@@ -86,18 +88,18 @@ class YouTubeChannelContent extends Component {
 
                                     <div className="video-thumbnail">
                                         <img
-                                            src=""
+                                            src="https://placeimg.com/170/120/any"
                                             alt=""/>
                                     </div>
 
                                     <div className="video-info">
-                                        <h3 className="video-title"></h3>
+                                        <h3 className="video-title">13hirteen Reasons Why Cancelled?</h3>
                                         <ul className="video-meta-data">
                                             <li className="video-creator">
-                                                <i className="fas fa-check-circle"></i>
+                                               Cody Pace
                                             </li>
-                                            <li className="video-views"></li>
-                                            <li className="video-upload-date"></li>
+                                            <li className="video-views">2.1m views</li>
+                                            <li className="video-upload-date">1 month ago</li>
                                         </ul>
                                     </div>
 
@@ -112,13 +114,13 @@ class YouTubeChannelContent extends Component {
                                     </div>
 
                                     <div className="video-info">
-                                        <h3 className="video-title"></h3>
+                                        <h3 className="video-title">New Jedi's Coming</h3>
                                         <ul className="video-meta-data">
                                             <li className="video-creator">
-                                                <i className="fas fa-check-circle"></i>
+                                                Didja Cat
                                             </li>
-                                            <li className="video-views"></li>
-                                            <li className="video-upload-date"></li>
+                                            <li className="video-views">234 views</li>
+                                            <li className="video-upload-date">1 week ago</li>
                                         </ul>
                                     </div>
 
