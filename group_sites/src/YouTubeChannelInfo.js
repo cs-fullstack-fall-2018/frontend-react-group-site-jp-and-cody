@@ -18,18 +18,18 @@ class YouTubeChannelInfo extends Component {
 
                         <div className="channel-title">
 
-                            <h1><i className=""></i></h1>
+                            <h1><i className="">ReallyCoolVlogs</i></h1>
 
-                            <div className="channel-subscriber-count"></div>
+                            <div className="channel-subscriber-count">2,126,438</div>
 
                         </div>
 
                         <div className="channel-subscribe">
 
-                            <button className="subscribe-btn btn"></button>
+                            <button className="subscribe-btn btn">SUBSCRIBED 2.1M</button>
 
                             <button className="notification-btn btn" aria-label="Enable Notifications"><i
-                                className="" aria-hidden="true"></i></button>
+                                class="fas fa-bell" aria-hidden="true"></i></button>
 
                         </div>
 
@@ -46,27 +46,27 @@ class YouTubeChannelInfo extends Component {
                         <ul>
 
                             <li className="nav-item">
-                                <a href="#" className="current"></a>
+                                <a href="#" className="current">HOME</a>
                             </li>
 
                             <li className="nav-item">
-                                <a href="#"></a>
+                                <a href="#">VIDEOS</a>
                             </li>
 
                             <li className="nav-item">
-                                <a href="#"></a>
+                                <a href="#">PLAYLISTS</a>
                             </li>
 
                             <li className="nav-item">
-                                <a href="#"></a>
+                                <a href="#">COMMUNITY</a>
                             </li>
 
                             <li className="nav-item">
-                                <a href="#"></a>
+                                <a href="#">CHANNELS</a>
                             </li>
 
                             <li className="nav-item">
-                                <a href="#"></a>
+                                <a href="#">ABOUT</a>
                             </li>
 
                         </ul>

@@ -18,9 +18,9 @@ class YouTubeRecommendedChannels extends Component {
                                 alt=""/>
                         </div>
 
-                        <h3 className="recommended-channel-title"></h3>
+                        <h3 className="recommended-channel-title">ReallyCoolGuy</h3>
 
-                        <button className="recommended-channel-subscribe btn"></button>
+                        <button className="recommended-channel-subscribe btn">SUBSCRIBED</button>
                     </div>
 
                     <div className="recommended-channel">
@@ -31,9 +31,9 @@ class YouTubeRecommendedChannels extends Component {
                                 alt=""/>
                         </div>
 
-                        <h3 className="recommended-channel-title"></h3>
+                        <h3 className="recommended-channel-title">ReallyCoolGirl</h3>
 
-                        <button className="recommended-channel-subscribe btn"></button>
+                        <button className="recommended-channel-subscribe btn">SUBSCRIBED</button>
                     </div>
                 </div>
 
@@ -49,9 +49,9 @@ class YouTubeRecommendedChannels extends Component {
                                 alt=""/>
                         </div>
 
-                        <h3 className="recommended-channel-title"></h3>
+                        <h3 className="recommended-channel-title">ReallyCoolGames</h3>
 
-                        <button className="recommended-channel-subscribe btn"></button>
+                        <button className="recommended-channel-subscribe btn">SUBSCRIBED</button>
                     </div>
 
                     <div className="recommended-channel">
@@ -62,9 +62,9 @@ class YouTubeRecommendedChannels extends Component {
                                 alt=""/>
                         </div>
 
-                        <h3 className="recommended-channel-title"></h3>
+                        <h3 className="recommended-channel-title">ReallyCoolMusic</h3>
 
-                        <button className="recommended-channel-subscribe btn"></button>
+                        <button className="recommended-channel-subscribe btn">SUBSCRIBED</button>
 
                     </div>
 
@@ -76,9 +76,9 @@ class YouTubeRecommendedChannels extends Component {
                                 alt=""/>
                         </div>
 
-                        <h3 className="recommended-channel-title"></h3>
+                        <h3 className="recommended-channel-title">ReallyCoolTrips</h3>
 
-                        <button className="recommended-channel-subscribe btn"></button>
+                        <button className="recommended-channel-subscribe btn">SUBSCRIBED</button>
                     </div>
                 </div>
             </section>
